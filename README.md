@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chainhead
-- 👀 I’m interested in Kubernetes and Internet of Things (IoT).
-- 🌱 I’m currently learning Rust programming language.
-- 💞️ I’m looking to collaborate on Kubernetes and Internet of Things (IoT) projects.
+- 👀 I’m good with Kubernetes and Internet of Things (IoT).
+- 🌱 I’m a Solution Architect; meaning, I take customer requirements and turn them into enterprise-grade solutions.
 - 📫 How to reach me ... mrchainhead@gmail.com
 
 <!---
